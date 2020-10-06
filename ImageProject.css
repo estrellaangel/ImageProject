@@ -1,6 +1,6 @@
 body{
     border: grey solid 20px;
-    display: inline-block;    
+    width: fit-content;
 }
 nav{
     background-color: palevioletred;
